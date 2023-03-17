@@ -20,8 +20,6 @@ const App = () => {
 
     </div>
   )
-
-  //how to center a div?
 }
 
 export default App;
